@@ -1,1 +1,2 @@
 Greetings from the Info1 team! :)
+PR request example
