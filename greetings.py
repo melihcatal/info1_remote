@@ -1,4 +1,4 @@
-names = ["Info1"]
+names = ["Info1", "Melih"]
 
 
 def greet_all():
